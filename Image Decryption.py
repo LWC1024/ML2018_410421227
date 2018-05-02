@@ -11,7 +11,7 @@ from matplotlib import pyplot as plt
 figure = plt.figure(figsize=(4, 3), dpi = 100) #設定figure的大小和dpi
 
 """load the images"""
-PATH = "E:/Google 雲端硬碟 (410421227@gms.ndhu.edu.tw)/課程/(三下) 機器學習/Assignment_1/ML2018_410421227/Image_and_ImageData/"
+PATH = "Image_and_ImageData/"
 #設定路徑
 """
 key1 = cv2.imread(PATH + "key1.png")
@@ -49,5 +49,6 @@ ans = (Ep - (weight[0] * key1) - (weight[1] * key2)) / weight[2]
 """draw and show"""
 plt.axis("off") #隱藏坐標軸
 plt.imshow(ans, cmap = "gray") #顯示為灰度圖
+plt.savefig(PATH + "answer.png")
 plt.show()
 print ("The weight is ", weight)
