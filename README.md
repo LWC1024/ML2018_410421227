@@ -6,7 +6,7 @@
 * learning rate 學習率 = 0.00001
 * MaxIterLimit 訓練次數上限 = 10
 * epoch = 1
-* weight 權重 = [,,]
+* weight 權重 = [,,] (用numpy.random隨機設定初始值)
 ## C. The derived weight vector w
 * weight = [0.24914331 0.6613819 0.089239531]
 ## D. The printed image
