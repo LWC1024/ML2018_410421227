@@ -1,5 +1,5 @@
-# Machine Learning - Image Decryption using Linear Percetpron
->Programming Asssignment1
+# Image Decryption using Linear Percetpron
+>Machine Learning - Programming Asssignment1
 ## A. the way i prepare the training samples
 >嘗試了opencv, PIL, matplotlib, scipy.misc, imageio，最後選擇imageio讀取圖片樣本
 ## B. all parameters i used for the training algorithm
