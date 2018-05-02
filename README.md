@@ -13,4 +13,4 @@ Image Decryption using Linear Percetpron
 ## C. the derived weight vector w
 weight = [0.24914331 0.6613819 0.089239531]
 ## D. the printed image
-![answer]
+![answer](https://github.com/LWC1024/ML2018_410421227/blob/master/Image_and_ImageData/answer.png)
