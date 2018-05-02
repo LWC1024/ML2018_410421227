@@ -18,5 +18,7 @@
 * github desktop分支merge到master失敗
 ## F. i learned from this work
 >一開始花了很多時間認識git和github，發現真是個非常方便的平台，很喜歡version的功能，以後會好好善用
+>>
 >試了各種讀取圖片的方法，如果使用PIL讀取的話需要從img轉換成array
+>>
 >當一切終於完成、答案揭曉後覺得很有成就感，收穫很多，是個很好的一次經驗
